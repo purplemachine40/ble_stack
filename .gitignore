@@ -1,0 +1,5 @@
+/.vscode
+/.vs
+/ble_stack
+/x64
+ble_stack.vcxproj.user
